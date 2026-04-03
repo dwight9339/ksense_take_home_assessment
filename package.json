@@ -1,0 +1,29 @@
+{
+  "name": "ksense_take_home_assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwight9339/ksense_take_home_assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwight9339/ksense_take_home_assessment/issues"
+  },
+  "homepage": "https://github.com/dwight9339/ksense_take_home_assessment#readme",
+  "dependencies": {
+    "axios": "^1.14.0",
+    "dotenv": "^17.4.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.5.2"
+  }
+}
